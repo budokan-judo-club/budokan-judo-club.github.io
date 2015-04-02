@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   and parents being urged to join in on the mat and take advantage of the
   fitness, self defence, discipline and sport to be gain from Judo.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.judo.net.nz/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
