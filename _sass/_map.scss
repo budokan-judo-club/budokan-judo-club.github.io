@@ -1,0 +1,26 @@
+#location-map {
+  height: 400px;
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+#location-map img { 
+  max-width: none; 
+// to prevent UI control bug
+}
+
+#location-map .content {
+  padding: 0 0.5em 1em 0.5em;
+}
+
+#location-map .firstHeading {
+  font-size: 1em;
+  line-height: 1em;
+  font-weight: bold;
+  margin: 0;
+}
+
+#location-map #bodyContent p {
+  font-size: 1em;
+  margin: 0;
+}
